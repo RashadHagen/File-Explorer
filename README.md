@@ -40,3 +40,13 @@
   <br/>
 </li>
 </ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Create-And-Setup-A-Security-Or-Distribution-Group-Security-Group-Adds-A-Shared-Folder-Network-Path">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Users and Computers (ADUC) (AND) File Explorer (Security Group) - Create And Setup A Security Or Distribution Group In Active Directory Users And Computers. Creating A Security Group Adds A Shared Folder In File Explorer With A Network Path</strong>
+  </a>
+  <br/>
+</li>
+</ul>
